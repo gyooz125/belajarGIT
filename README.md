@@ -8,7 +8,7 @@
 7. Tugas-finalProject
    
 # Daftar perintah GiT
-- `git clone ` → Mengunduh repositori ke lokal
+- `git clone https://github.com/gyooz125/belajarGIT.git` → Mengunduh repositori ke lokal
 - `git checkout -b <branch-name>` → Membuat branch baru
 - `touch <file.txt>` → Membuat file txt
 - `nano <file.txt>` → Mengedit file txt
